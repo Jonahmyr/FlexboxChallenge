@@ -47,6 +47,7 @@ main {
 .leftSide {
   width: 50%;
   padding: 10px;
+  
 
 }
 
@@ -57,23 +58,106 @@ main {
 #P1 {
   border: 2px solid black;
   margin: 2px;
+  display: flex;
 }
 
-mini_boxes {
-  list-style-type: none;
+.P1B1 {
+  border: 2px solid black;
+  align-items: center;
+  margin: 4px;
+  background-color: Black;
+  color: white;
+
 }
+
+.P1B2 {
+  border: 2px solid black;
+  align-items: center;
+  margin: 4px;
+  background-color: Black;
+  color: white;
+  
+}
+
+.P1B3 {
+  border: 2px solid black;
+  align-items: center;
+  margin: 4px;
+  background-color: Black;
+  color: white;
+  
+}
+
 
 #P2 {
   border: 2px solid black;
   margin: 2px;
+  display: flex;
 }
 
+.P2B1 {
+  border: 2px solid black;
+  align-items: center;
+  margin: 4px;
+  background-color: Black;
+  color: white;
+  
+}
+
+
+.P2B2 {
+  border: 2px solid black;
+  align-items: center;
+  margin: 4px;
+  background-color: Black;
+  color: white;
+  
+}
+
+.P2B3 {
+  border: 2px solid black;
+  align-items: center;
+  margin: 4px;
+  background-color: Black;
+  color: white;
+  
+}
 
 
 #P3 {
   border: 2px solid black;
   margin: 2px;
+  display: flex;
 }
+
+.P3B1 {
+  border: 2px solid black;
+  align-items: center;
+  margin: 4px;
+  background-color: Black;
+  color: white;
+  
+}
+
+.P3B2 {
+  border: 2px solid black;
+  align-items: center;
+  margin: 4px;
+  background-color: Black;
+  color: white;
+  
+}
+
+.P3B3 {
+  border: 2px solid black;
+  align-items: center;
+  margin: 4px;
+  background-color: Black;
+  color: white;
+  
+}
+
+
 
 
 
