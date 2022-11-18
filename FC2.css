@@ -47,7 +47,6 @@ main {
 .leftSide {
   width: 50%;
   padding: 10px;
-  
 
 }
 
@@ -57,113 +56,112 @@ main {
 
 #P1 {
   border: 2px solid black;
-  margin: 2px;
+  margin: 10px;
   display: flex;
+  padding: 25px;
+  justify-content:space-between;
 }
 
 .P1B1 {
   border: 2px solid black;
   align-items: center;
-  margin: 4px;
+  margin: 10px;
   background-color: Black;
   color: white;
-
+  padding: 2em;
 }
 
 .P1B2 {
   border: 2px solid black;
   align-items: center;
-  margin: 4px;
+  margin: 10px;
   background-color: Black;
   color: white;
+  padding: 2em;
   
 }
 
 .P1B3 {
   border: 2px solid black;
   align-items: center;
-  margin: 4px;
+  margin: 10px;
   background-color: Black;
   color: white;
-  
+  padding: 2em;
 }
 
 
 #P2 {
   border: 2px solid black;
-  margin: 2px;
+  margin: 10px;
   display: flex;
+  padding: 25px;
+  justify-content:end;
 }
 
 .P2B1 {
   border: 2px solid black;
   align-items: center;
-  margin: 4px;
+  margin: 10px;
   background-color: Black;
   color: white;
-  
+  padding: 2em;
 }
 
 
 .P2B2 {
   border: 2px solid black;
   align-items: center;
-  margin: 4px;
+  margin: 10px;
   background-color: Black;
   color: white;
-  
+  padding: 2em;
 }
 
 .P2B3 {
   border: 2px solid black;
   align-items: center;
-  margin: 4px;
+  margin: 10px;
   background-color: Black;
   color: white;
-  
+  padding: 2em;
 }
 
 
 #P3 {
   border: 2px solid black;
-  margin: 2px;
+  margin: 10px;
   display: flex;
+  padding: 25px;
+  justify-content:flex-start;
 }
 
 .P3B1 {
   border: 2px solid black;
   align-items: center;
-  margin: 4px;
+  margin: 10px;
   background-color: Black;
   color: white;
-  
+  padding: 2em;
 }
 
 .P3B2 {
   border: 2px solid black;
   align-items: center;
-  margin: 4px;
+  margin: 10px;
   background-color: Black;
   color: white;
-  
+  padding: 2em;
 }
 
 .P3B3 {
   border: 2px solid black;
   align-items: center;
-  margin: 4px;
+  margin: 10px;
   background-color: Black;
   color: white;
-  
+  padding: 2em;
 }
-
-
-
-
-
-
-
-
 
 
 .rightSide {
