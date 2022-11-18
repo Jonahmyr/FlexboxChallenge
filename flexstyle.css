@@ -4,14 +4,13 @@ nav {
   margin: 0px;
 }
 
-ul {
+nav > ul {
   justify-content: center;
   list-style-type: none;
   border: 2px solid black;
   background-color: black;
   height: 38px;
   width: 70em;
- 
   display: flex; 
   align-items: center;
   margin: 0px;
